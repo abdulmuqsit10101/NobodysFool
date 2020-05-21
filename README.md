@@ -4,7 +4,7 @@ This is the way we can use css framework "Tailwindcss" and really thinks that th
 Stay tuned!
 
 1. First run "npm init -y" in project's terminal. This would generate an empty package.json file.
-1. Run "npm install tailwindcss" in project terminal. This will install tailwindcss and put this in package.json file.
+1. Run "npm install tailwindcss" in project terminal. This will install tailwindcss ( packages ) and put this in package.json file.
 2. Add following to your css file
 
     @tailwind base;
